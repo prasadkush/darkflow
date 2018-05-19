@@ -1,0 +1,8 @@
+net/yolo/tiny-yolo-udacity1.parsed Car Truck Pedestrian
+net/yolo/tiny-yolo-udacity1_.parsed car truck pedestrian trafficLight biker
+net/yolo/tiny-yolo-udacity1.parsed car truck pedestrian trafficLight biker
+net/yolo/tiny-yolo-udacity1.parsed car truck pedestrian trafficLight biker
+net/yolo/tiny-yolo-udacity1.parsed car truck pedestrian trafficLight biker
+net/yolo/tiny-yolo-udacity1.parsed car truck pedestrian trafficLight biker
+net/yolo/tiny-yolo-udacity1.parsed car truck pedestrian trafficLight biker
+net/yolo/tiny-yolo-udacity1.parsed car truck pedestrian trafficLight biker
